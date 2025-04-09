@@ -8,7 +8,7 @@ const HeroSection = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{ 
-          backgroundImage: "url('/lovable-uploads/589284ef-6f27-4788-a3be-859daf34635d.png')", 
+          backgroundImage: "url('/lovable-uploads/fb3d45bd-5791-467e-b7e9-67e6de2c0f9c.png')", 
           filter: "brightness(0.7)"
         }}
       ></div>
@@ -20,10 +20,10 @@ const HeroSection = () => {
       <div className="relative h-full flex flex-col items-center justify-center text-white px-4 md:px-8">
         <div className="max-w-4xl text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-4">
-            Detaylı Araç Bakım ve Restorasyon Merkezi
+            APEX
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-200">
-            Aracınızın değerini ve görünümünü profesyonel detaylı bakım hizmetlerimizle koruyoruz
+            Detaylı Araç Bakım ve Restorasyon Merkezi
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <a href="#services" className="button-primary">

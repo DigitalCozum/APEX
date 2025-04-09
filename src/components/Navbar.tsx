@@ -42,7 +42,7 @@ const Navbar = () => {
     <nav className={navbarClass}>
       <div className="container mx-auto px-4 flex justify-between items-center">
         <div className="flex items-center">
-          <span className="text-2xl font-bold text-autocare-800">DETAYLI OTO</span>
+          <span className="text-2xl font-bold text-autocare-800">APEX</span>
         </div>
 
         {/* Desktop Menu */}
