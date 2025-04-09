@@ -17,6 +17,10 @@ const getBase = () => {
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   base: getBase(),
+  build: {
+    outDir: 'dist',
+    sourcemap: true,
+  },
   server: {
     host: "::",
     port: 8080,
